@@ -5,7 +5,7 @@
 
 
 
-![preview]
+![preview] (./src/imagens/fotoPot.png)
 
 > Portfolio
 
@@ -21,4 +21,4 @@
 -linkedin
 -CV
 
-[Clique aqui para acessar: ]()
+[Clique aqui para acessar: ](https://andersonnazario.github.io/mini-portif0lio/)
