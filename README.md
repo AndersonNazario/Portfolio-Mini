@@ -5,7 +5,7 @@
 
 
 
-![preview] (./src/imagens/fotoPot.jng)
+![preview](./src/imagens/fotoPot.jng)
 
 > Portfolio
 
@@ -17,8 +17,9 @@
 
 ## Portfolio
 > - Criando o primeio Portfolio, contendo link para
--github
--linkedin
--CV
+
+- github
+- linkedin
+- CV
 
 [Clique aqui para acessar: ](https://andersonnazario.github.io/Portfolio-Mini/)
