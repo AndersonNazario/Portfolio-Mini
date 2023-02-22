@@ -5,7 +5,7 @@
 
 
 
-![preview](./src/imagens/fotoPot.jng)
+![preview](./src/imagens/fotoPot.png)
 
 > Portfolio
 
